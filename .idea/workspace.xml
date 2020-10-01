@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da293ba3-52e9-401d-b8ae-ec1f081ed16b" name="Default Changelist" comment="os version and python version">
+      <change beforePath="$PROJECT_DIR$/lesson_001/01_os_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/01_os_info.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iFNeHOXzf1nm1JUmeU3KnehGon" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.01_os_info">
+    <configuration name="01_os_info" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="First" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_001" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_001/01_os_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="First" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da293ba3-52e9-401d-b8ae-ec1f081ed16b" name="Default Changelist" comment="" />
+      <created>1601499475673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601499475673</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Created repka.txt">
+      <created>1601502561854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601502561854</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change repka.txt">
+      <created>1601502771998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601502771998</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change repka/bryukva">
+      <created>1601502908927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601502908927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add 3 new file">
+      <created>1601503414387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601503414387</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change &quot;некто&quot; on &quot;дед&quot;">
+      <created>1601503467896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601503467896</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Change &quot;огромная&quot; on &quot;огромная-преогромная&quot;">
+      <created>1601503523167</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601503523167</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change &quot;огромная&quot; on &quot;огромная-преогромная&quot;">
+      <created>1601503577403</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601503577403</updated>
+    </task>
+    <task id="LOCAL-00008" summary="os version and python version">
+      <created>1601578465719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601578465719</updated>
+    </task>
+    <task id="LOCAL-00009" summary="os version and python version">
+      <created>1601578483254</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601578483254</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created repka.txt" />
+    <MESSAGE value="Change repka.txt" />
+    <MESSAGE value="Change repka/bryukva" />
+    <MESSAGE value="Add 3 new file" />
+    <MESSAGE value="Change &quot;некто&quot; on &quot;дед&quot;" />
+    <MESSAGE value="Change &quot;огромная&quot; on &quot;огромная-преогромная&quot;" />
+    <MESSAGE value="os version and python version" />
+    <option name="LAST_COMMIT_MESSAGE" value="os version and python version" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601578326656">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="184" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.819@0.23.1440.819" timestamp="1601578326656" />
+    <state x="809" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601503244785">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="809" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.819@0.23.1440.819" timestamp="1601503244785" />
+    <state x="792" y="123" width="548" height="579" key="DiffContextDialog" timestamp="1601504012315">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="792" y="123" width="548" height="579" key="DiffContextDialog/0.23.1440.819@0.23.1440.819" timestamp="1601504012315" />
+    <state width="1398" height="190" key="GridCell.Tab.0.bottom" timestamp="1601580489473">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="190" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1601580489473" />
+    <state width="1398" height="190" key="GridCell.Tab.0.center" timestamp="1601580489472">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="190" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1601580489472" />
+    <state width="1398" height="190" key="GridCell.Tab.0.left" timestamp="1601580489472">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="190" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1601580489472" />
+    <state width="1398" height="190" key="GridCell.Tab.0.right" timestamp="1601580489473">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="190" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1601580489473" />
+    <state x="233" y="120" key="SettingsEditor" timestamp="1601502209744">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="233" y="120" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1601502209744" />
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2" timestamp="1601578571393">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.819@0.23.1440.819" timestamp="1601578571393" />
+    <state x="427" y="65" width="586" height="735" key="find.popup" timestamp="1601580483673">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="427" y="65" width="586" height="735" key="find.popup/0.23.1440.819@0.23.1440.819" timestamp="1601580483673" />
+  </component>
+</project>
