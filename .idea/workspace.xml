@@ -10,8 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da293ba3-52e9-401d-b8ae-ec1f081ed16b" name="Default Changelist" comment="os version and python version">
-      <change beforePath="$PROJECT_DIR$/lesson_001/01_os_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/01_os_info.py" afterDir="false" />
+    <list default="true" id="da293ba3-52e9-401d-b8ae-ec1f081ed16b" name="Default Changelist" comment="Гоблина заменили на волка">
+      <change beforePath="$PROJECT_DIR$/lesson_001/03_three_commits.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/03_three_commits.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_001/red_hat/03_murder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/red_hat/03_murder.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_001/red_hat/04_second_victim.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/red_hat/04_second_victim.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601578483254</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="os version and python version">
+      <created>1601580559594</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601580559594</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Гоблина заменили на волка">
+      <created>1601580703968</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601580703968</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,8 +204,10 @@
     <MESSAGE value="Add 3 new file" />
     <MESSAGE value="Change &quot;некто&quot; on &quot;дед&quot;" />
     <MESSAGE value="Change &quot;огромная&quot; on &quot;огромная-преогромная&quot;" />
+    <MESSAGE value="Черную курточку заменили на Красную Шапочку" />
     <MESSAGE value="os version and python version" />
-    <option name="LAST_COMMIT_MESSAGE" value="os version and python version" />
+    <MESSAGE value="Гоблина заменили на волка" />
+    <option name="LAST_COMMIT_MESSAGE" value="Гоблина заменили на волка" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601578326656">
@@ -228,9 +246,9 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.819@0.23.1440.819" timestamp="1601578571393" />
-    <state x="427" y="65" width="586" height="735" key="find.popup" timestamp="1601580483673">
+    <state x="427" y="65" width="586" height="735" key="find.popup" timestamp="1601580779790">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state x="427" y="65" width="586" height="735" key="find.popup/0.23.1440.819@0.23.1440.819" timestamp="1601580483673" />
+    <state x="427" y="65" width="586" height="735" key="find.popup/0.23.1440.819@0.23.1440.819" timestamp="1601580779790" />
   </component>
 </project>
