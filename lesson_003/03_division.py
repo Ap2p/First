@@ -8,6 +8,12 @@
 # Формат вывода:
 #   Целочисленное деление ХХХ на YYY дает ZZZ
 
-a, b = 179, 37
+a, b = 100, 10
 
-# TODO здесь ваш код
+int_division = 0
+tmp_a = a
+while tmp_a / b > 1:
+    int_division += 1
+    tmp_a -= b
+
+print(f'Целочисленное деление {a} на {b} дает {int_division}')
