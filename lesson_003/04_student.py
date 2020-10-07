@@ -11,4 +11,12 @@
 
 educational_grant, expenses = 10000, 12000
 
-# TODO здесь ваш код
+count = 2
+total_expenses = 12000
+while count <= 10:
+    count += 1
+    expenses *= 1.03
+    total_expenses += expenses
+student_expenses = int(total_expenses - educational_grant * 10)
+
+print(f'Студенту надо попросить {student_expenses} рублей')
